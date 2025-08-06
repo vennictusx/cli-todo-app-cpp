@@ -1,3 +1,3 @@
 @echo off
-main.exe
+mainctd.exe
 pause 
